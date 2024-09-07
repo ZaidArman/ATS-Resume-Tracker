@@ -1,0 +1,18 @@
+/* styles.css */
+.custom-header {
+    font-size: 30px; /* Adjust the size as needed */
+    color: #e0ffff; /* Optional: Change the color */
+    text-align: center; /* Optional: Center the text */
+}
+.custom-mainheader {
+    font-size: 40px; /* Adjust the size as needed */
+    color: #ffff00; /* Optional: Change the color */
+    text-align: center; /* Optional: Center the text */
+    font-weight: bold; /* Make the text bold */
+}
+.custom-menutitle {
+    font-size: 35px; /* Adjust the size as needed */
+    color: #ffff00; /* Optional: Change the color */
+    text-align: center; /* Optional: Center the text */
+    font-weight: bold; /* Make the text bold */
+}
